@@ -1,0 +1,162 @@
+[
+    {
+        "seller": "Amazon",
+        "image": "https://i.ibb.co/V3RG7K3/76107-Thanos.png",
+        "toy_name": "Marvel Avengers Infinity War Thanos",
+        "sub_category": "Marvel",
+        "price": "24.99",
+        "available_quantity": "10"
+    },
+    {
+        "seller": "Walmart",
+        "image": "https://i.ibb.co/KGB5Vbq/yada.webp",
+        "toy_name": "The Mandalorian Baby Yoda",
+        "sub_category": "Star Wars",
+        "price": "19.99",
+        "available_quantity": "5"
+    },
+    {
+        "seller": "Target",
+        "image": "https://i.ibb.co/86nNQJQ/bantman.png",
+        "toy_name": "DC Multiverse Batman",
+        "sub_category": "DC Comics",
+        "price": "19.99",
+        "available_quantity": "1"
+    },
+    {
+        "seller": "Toys R Us",
+        "image": "https://i.ibb.co/0FGZf3N/optimus-prime.webp",
+        "toy_name": "Transformers Optimus Prime",
+        "sub_category": "Transformers",
+        "price": "49.99",
+        "available_quantity": "10"
+    },
+    {
+        "seller": "Hasbro Pulse",
+        "image": "https://i.ibb.co/q92LhQq/thor.png",
+        "toy_name": "Marvel Avengers Thor",
+        "sub_category": "Marvel",
+        "price": "24.99",
+        "available_quantity": "5"
+    },
+    {
+        "seller": "Amazon",
+        "image": "https://i.ibb.co/0fcSkD8/pngwing-com-6.png",
+        "toy_name": "Star Wars Darth Vader",
+        "sub_category": "Star Wars",
+        "price": "24.99",
+        "available_quantity": "10"
+    },
+    {
+        "seller": "Walmart",
+        "image": "https://i.ibb.co/7yZjtty/hulkbuster.png",
+        "toy_name": "Marvel Avengers Hulkbuster",
+        "sub_category": "Marvel",
+        "price": "49.99",
+        "available_quantity": "5"
+    },
+    {
+        "seller": "Target",
+        "image": "https://i.ibb.co/x5Fcy4G/wonder-woman.png",
+        "toy_name": "DC Multiverse The Wonder Women",
+        "sub_category": "DC Comics",
+        "price": "19.99",
+        "available_quantity": "1"
+    },
+    {
+        "seller": "Toys R Us",
+        "image": "https://i.ibb.co/P5yzdBY/Megatron.png",
+        "toy_name": "Transformers Megatron",
+        "sub_category": "Transformers",
+        "price": "59.99",
+        "available_quantity": "10"
+    },
+    {
+        "seller": "Hasbro Pulse",
+        "image": "https://i.ibb.co/1r5c3pY/cap.png",
+        "toy_name": "Marvel Avengers Captain America",
+        "sub_category": "Marvel",
+        "price": "24.99",
+        "available_quantity": "5"
+    },
+    {
+        "seller": "Amazon",
+        "image": "https://i.ibb.co/wNYZ3Wc/pngwing-com-7.png",
+        "toy_name": "Star Wars Stormtrooper",
+        "sub_category": "Star Wars",
+        "price": "14.99",
+        "available_quantity": "10"
+    },
+    {
+        "seller": "Walmart",
+        "image": "https://i.ibb.co/vYC9LH4/iron.png",
+        "toy_name": "Marvel Avengers Iron Man",
+        "sub_category": "Marvel",
+        "price": "39.99",
+        "available_quantity": "5"
+    },
+    {
+        "seller": "Target",
+        "image": "https://i.ibb.co/5XDLJkM/superman.png",
+        "toy_name": "DC Multiverse Superman",
+        "sub_category": "DC Comics",
+        "price": "19.99",
+        "available_quantity": "1"
+    },
+    {
+        "seller": "Toys R Us",
+        "image": "https://i.ibb.co/zN9ftFX/bubble.png",
+        "toy_name": "Transformers Bumblebee",
+        "sub_category": "Transformers",
+        "price": "19.99",
+        "available_quantity": "10"
+    },
+    {
+        "seller": "Amazon",
+        "image": "https://i.ibb.co/0tY1bkD/Overview-Kylo-Ren.png",
+        "toy_name": "Star Wars Kylo Ren",
+        "sub_category": "Star Wars",
+        "price": "24.99",
+        "available_quantity": "10"
+    },
+    {
+        "seller": "Walmart",
+        "image": "https://i.ibb.co/W3BPgy8/spider.png",
+        "toy_name": "Marvel Avengers Spider-Man",
+        "sub_category": "Marvel",
+        "price": "24.99",
+        "available_quantity": "5"
+    },
+    {
+        "seller": "Target",
+        "image": "https://i.ibb.co/hm4JpM6/joker.png",
+        "toy_name": "DC Multiverse The Joker",
+        "sub_category": "DC Comics",
+        "price": "19.99",
+        "available_quantity": "1"
+    },
+    {
+        "seller": "Toys R Us",
+        "image": "https://i.ibb.co/pxVpcc2/soundwave.png",
+        "toy_name": "Transformers Soundwave",
+        "sub_category": "Transformers",
+        "price": "9.99",
+        "available_quantity": "10"
+    },
+    {
+        "seller": "Hasbro Pulse",
+        "image": "https://i.ibb.co/HNV0nFR/black.png",
+        "toy_name": "Marvel Avengers Black Widow",
+        "sub_category": "Marvel",
+        "price": "24.99",
+        "available_quantity": "5"
+    },
+    {
+        "seller": "Amazon",
+        "image": "https://i.ibb.co/WxpLwM6/ray.png",
+        "toy_name": "Star Wars Rey",
+        "sub_category": "Star Wars",
+        "price": "24.99",
+        "available_quantity": "10"
+    }
+]

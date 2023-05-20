@@ -1,0 +1,222 @@
+[
+    {
+        "image": "https://i.ibb.co/V3RG7K3/76107-Thanos.png",
+        "toy_name": "Marvel Avengers Infinity War Thanos",
+        "sellerName": "Building Blocks",
+        "sellerEmail": "amazon@toys.com",
+        "sub_category": "Marvel",
+        "price": 19.99,
+        "rating": 4.5,
+        "quantity": 10,
+        "description": "The building blocks set includes colorful blocks of different shapes and sizes, allowing children to unleash their creativity and build various structures."
+    },
+    {
+        "image": "https://i.ibb.co/KGB5Vbq/yada.webp",
+        "toy_name": "The Mandalorian Baby Yoda",
+        "sellerName": "Artistic Minds",
+        "sellerEmail": "aalmart@artist.com",
+        "sub_category": "Star Wars",
+        "price": 12.99,
+        "rating": 4.8,
+        "quantity": 15,
+        "description": "The art set contains a variety of art supplies such as colored pencils, paints, brushes, and sketchbooks, inspiring children to explore their artistic talents."
+    },
+    {
+        "image": "https://i.ibb.co/86nNQJQ/bantman.png",
+        "toy_name": "DC Multiverse Batman",
+        "sellerName": "Curious Kids",
+        "sellerEmail": "target@kids.com",
+        "sub_category": "DC Comics",
+        "price": 29.99,
+        "rating": 4.7,
+        "quantity": 8,
+        "description": "The science kit features a range of experiments and scientific tools, promoting hands-on learning and sparking curiosity about the wonders of science."
+    },
+    {
+        "image": "https://i.ibb.co/0FGZf3N/optimus-prime.webp",
+        "toy_name": "Transformers Optimus Prime",
+        "sellerName": "Tiny Homes",
+        "sellerEmail": "info@tinyhomes.com",
+        "sub_category": "Transformers",
+        "price": 49.99,
+        "rating": 4.6,
+        "quantity": 5,
+        "description": "The dollhouse is a beautifully crafted miniature house with furniture and accessories, providing endless hours of imaginative play for children."
+    },
+    {
+        "image": "https://i.ibb.co/q92LhQq/thor.png",
+        "toy_name": "Marvel Avengers Thor",
+        "sellerName": "Melody Makers",
+        "sellerEmail": "contact@makers.com",
+        "sub_category": "Marvel",
+        "price": 24.99,
+        "rating": 4.4,
+        "quantity": 12,
+        "description": "The musical instrument set includes various instruments like a xylophone, tambourine, and maracas, allowing children to explore the world of music and rhythm."
+    },
+    {
+        "image": "https://i.ibb.co/0fcSkD8/pngwing-com-6.png",
+        "toy_name": "Star Wars Darth Vader",
+        "sellerName": "Tech Wizards",
+        "sellerEmail": "info@techwizards.com",
+        "sub_category": "Star Wars",
+        "price": 39.99,
+        "rating": 4.9,
+        "quantity": 7,
+        "description": "The robot building kit enables children to construct their own robot using different components and learn about robotics and engineering concepts."
+    },
+    {
+        "image": "https://i.ibb.co/7yZjtty/hulkbuster.png",
+        "toy_name": "Marvel Avengers Hulkbuster",
+        "sellerName": "Little Chefs",
+        "sellerEmail": "sales@littlechefs.com",
+        "sub_category": "Marvel",
+        "price": 34.99,
+        "rating": 4.7,
+        "quantity": 9,
+        "description": "The pretend play kitchen set features a stove, sink, utensils, and play food, encouraging imaginative cooking and role-playing experiences."
+    },
+    {
+        "image": "https://i.ibb.co/x5Fcy4G/wonder-woman.png",
+        "toy_name": "DC Multiverse The Wonder Women",
+        "sellerName": "Brain Teasers",
+        "sellerEmail": "contact@brainteasers.com",
+        "sub_category": "DC Comics",
+        "price": 16.99,
+        "rating": 4.5,
+        "quantity": 11,
+        "description": "The puzzle set includes a variety of puzzles of different difficulty levels, promoting problem-solving skills and cognitive development in children."
+    },
+    {
+        "image": "https://i.ibb.co/P5yzdBY/Megatron.png",
+        "toy_name": "Transformers Megatron",
+        "sellerName": "Nature Explorers",
+        "sellerEmail": "info@natureexplorers.com",
+        "sub_category": "Transformers",
+        "price": 19.99,
+        "rating": 4.3,
+        "quantity": 13,
+        "description": "The outdoor explorer kit contains essential tools for outdoor exploration such as a magnifying glass, compass, and binoculars, encouraging children to discover and appreciate nature."
+    },
+    {
+        "image": "https://i.ibb.co/1r5c3pY/cap.png",
+        "toy_name": "Marvel Avengers Captain America",
+        "sellerName": "Creative Toys",
+        "sellerEmail": "info@creativetoys.com",
+        "sub_category": "Marvel",
+        "price": 21.99,
+        "rating": 4.6,
+        "quantity": 10,
+        "description": "The building vehicle set includes toy trucks, bulldozers, and cranes, allowing children to engage in imaginative construction play and learn about different vehicles."
+    },
+    {
+        "image": "https://i.ibb.co/wNYZ3Wc/pngwing-com-7.png",
+        "toy_name": "Star Wars Stormtrooper",
+        "sellerName": "Little Chefs",
+        "sellerEmail": "sales@littlechefs.com",
+        "sub_category": "Star Wars",
+        "price": 29.99,
+        "rating": 4.4,
+        "quantity": 8,
+        "description": "The cooking playset features pots, pans, utensils, and play food, providing children with the tools to pretend to cook and serve delicious meals."
+    },
+    {
+        "image": "https://i.ibb.co/vYC9LH4/iron.png",
+        "toy_name": "Marvel Avengers Iron Man",
+        "sellerName": "Strategic Games",
+        "sellerEmail": "contact@strategic.com",
+        "sub_category": "Marvel",
+        "price": 17.99,
+        "rating": 4.8,
+        "quantity": 15,
+        "description": "The chess set is a classic strategy game that stimulates critical thinking and logical reasoning in children, while also fostering patience and concentration."
+    },
+    {
+        "image": "https://i.ibb.co/5XDLJkM/superman.png",
+        "toy_name": "DC Multiverse Superman",
+        "sellerName": "Cuddly Friends",
+        "sellerEmail": "info@cuddlyfriends.com",
+        "sub_category": "DC Comics",
+        "price": 14.99,
+        "rating": 4.7,
+        "quantity": 6,
+        "description": "The stuffed animal collection features a variety of soft and cuddly animals, providing comfort and companionship to children of all ages."
+    },
+    {
+        "image": "https://i.ibb.co/zN9ftFX/bubble.png",
+        "toy_name": "Transformers Bumblebee",
+        "sellerName": "Artistic Minds",
+        "sellerEmail": "contact@artistic.com",
+        "sub_category": "Transformers",
+        "price": 32.99,
+        "rating": 4.5,
+        "quantity": 9,
+        "description": "The art easel comes with a chalkboard, whiteboard, and paper roll, allowing children to express their creativity through drawing, painting, and writing."
+    },
+    {
+        "image": "https://i.ibb.co/0tY1bkD/Overview-Kylo-Ren.png",
+        "toy_name": "Star Wars Kylo Ren",
+        "sellerName": "Tech Wizards",
+        "sellerEmail": "info@techwizards.com",
+        "sub_category": "Star Wars",
+        "price": 49.99,
+        "rating": 4.9,
+        "quantity": 5,
+        "description": "The coding robot introduces children to programming concepts through interactive games and activities, fostering computational thinking and problem-solving skills."
+    },
+    {
+        "image": "https://i.ibb.co/W3BPgy8/spider.png",
+        "toy_name": "Marvel Avengers Spider-Man",
+        "sellerName": "Little Gardeners",
+        "sellerEmail": "sales@littlegardeners.com",
+        "sub_category": "Marvel",
+        "price": 18.99,
+        "rating": 4.3,
+        "quantity": 11,
+        "description": "The garden tool set includes child-sized tools like a shovel, rake, and watering can, encouraging children to engage in gardening and learn about plants and nature."
+    },
+    {
+        "image": "https://i.ibb.co/hm4JpM6/joker.png",
+        "toy_name": "DC Multiverse The Joker",
+        "sellerName": "Speed Racers",
+        "sellerEmail": "info@speedracers.com",
+        "sub_category": "DC Comics",
+        "price": 39.99,
+        "rating": 4.6,
+        "quantity": 7,
+        "description": "The remote control car allows children to have fun and develop their hand-eye coordination and motor skills while maneuvering the car around obstacles."
+    },
+    {
+        "image": "https://i.ibb.co/pxVpcc2/soundwave.png",
+        "toy_name": "Transformers Soundwave",
+        "sellerName": "Creative Toys",
+        "sellerEmail": "info@creativetoys.com",
+        "sub_category": "Marvel",
+        "price": 27.99,
+        "rating": 4.7,
+        "quantity": 9,
+        "description": "The building marble run set features colorful tracks and marbles, providing hours of entertainment and promoting problem-solving and spatial awareness skills."
+    },
+    {
+        "image": "https://i.ibb.co/HNV0nFR/black.png",
+        "toy_name": "Marvel Avengers Black Widow",
+        "sellerName": "Little Healers",
+        "sellerEmail": "contact@littlehealers.com",
+        "sub_category": "Marvel",
+        "price": 22.99,
+        "rating": 4.5,
+        "quantity": 10,
+        "description": "The doctor playset includes medical tools and a lab coat, allowing children to role-play as doctors and nurses, fostering empathy and nurturing skills."
+    },
+    {
+        "image": "https://i.ibb.co/WxpLwM6/ray.png",
+        "toy_name": "Star Wars Rey",
+        "sellerName": "Prehistoric Explorers",
+        "sellerEmail": "info@prehistoricexplorers.com",
+        "sub_category": "Star Wars",
+        "price": 14.99,
+        "rating": 4.4,
+        "quantity": 12,
+        "description": "The dinosaur figures set features various species of dinosaurs, providing educational and imaginative play experiences for dinosaur enthusiasts."
+    }
+]

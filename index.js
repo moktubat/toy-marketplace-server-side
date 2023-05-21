@@ -21,12 +21,48 @@ async function run() {
     // Connect the client to the server	(optional starting in v4.7)
     await client.connect();
 
-   
-
-    const AllLegoCollection = client.db("legosDB").collection("allData");
+    const AllLegoCollection = client.db("legoDB").collection("allData");
 
     app.get("/allData", async (req, res) => {
       const cursor = AllLegoCollection.find();
+      const result = await cursor.toArray();
+      res.send(result);
+    });
+
+    app.get("/marvel", async (req, res) => {
+      const query = { sub_category: "Marvel" };
+      const options = {
+        projection: { _id: 1, image: 1, toy_name: 1, price: 1, rating: 1 },
+      };
+      const cursor = AllLegoCollection.find(query, options).limit(2);
+      const result = await cursor.toArray();
+      res.send(result);
+    });
+    
+    app.get("/starWars", async (req, res) => {
+      const query = { sub_category: "StarWars" };
+      const options = {
+        projection: { _id: 1, image: 1, toy_name: 1, price: 1, rating: 1 },
+      };
+      const cursor = AllLegoCollection.find(query, options).limit(2);
+      const result = await cursor.toArray();
+      res.send(result);
+    });
+    app.get("/DcComics", async (req, res) => {
+      const query = { sub_category: "DcComics" };
+      const options = {
+        projection: { _id: 1, image: 1, toy_name: 1, price: 1, rating: 1 },
+      };
+      const cursor = AllLegoCollection.find(query, options).limit(2);
+      const result = await cursor.toArray();
+      res.send(result);
+    });
+    app.get("/transformers", async (req, res) => {
+      const query = { sub_category: "Transformers" };
+      const options = {
+        projection: { _id: 1, image: 1, toy_name: 1, price: 1, rating: 1 },
+      };
+      const cursor = AllLegoCollection.find(query, options).limit(2);
       const result = await cursor.toArray();
       res.send(result);
     });
